@@ -11,7 +11,7 @@
 
 class AlgarvuRing {
     public static void main(String[] args){
-        int i = 311;
+        int i = 1000000;
         System.out.println("\nKodutöö nr 1a." + " ".repeat(20) + "Programmi väljund");
         System.out.println("=".repeat(51)+ ": \n");
         System.out.println("Antud lähtekoht: " + i);
